@@ -1,5 +1,6 @@
 # Deployment-of-PostgreSQL-
 Créer un espace de travail (namespace) nommé projet1 
+
 Créer un déploiement (Deployment) de 2 Pods d’une image postgresql, le statut des pods doit être “Running”.
 1.	Créez le namespace "projet1" en utilisant la commande kubectl create namespace :
 ![image](https://github.com/IhebMansour/Deployment-of-PostgreSQL-/assets/90302745/f4332602-2a03-4caa-be1a-fe11baed8bf9)
